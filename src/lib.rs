@@ -16,6 +16,7 @@ pub use crate::log::*;
 
 use crate::console::{console_ui, receive_console_line, ConsoleState};
 pub use clap;
+pub use bevy_egui;
 
 // mod color;
 mod color;
